@@ -1,8 +1,7 @@
-tensorflow
+streamlit
 pandas
 numpy
 scikit-learn
-tensorboard
 matplotlib
-streamlit
+# tensorflow==2.15.0  # uncomment once others work
 
