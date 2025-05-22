@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn
 matplotlib
-# tensorflow==2.15.0  # uncomment once others work
+tensorflow==2.15.0  
 
